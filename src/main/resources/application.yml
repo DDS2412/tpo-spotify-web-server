@@ -1,0 +1,8 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /spotify
+
+spring:
+  application:
+    name: spotify-music-server

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48f13f7a-c21c-4718-a0b4-ee42530dc5f5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aG8JbCBPtqpYWKVgkASQPG9Kse" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spotify-music-console-app" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\spotify-music-web-app\src\main\java\tpo" />
+      <recent name="C:\Users\User\IdeaProjects\spotify-music-web-app\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpotifyMusicWebApp">
+    <configuration name="SpotifyMusicWebApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tpo.SpotifyMusicWebApp" />
+      <module name="spotify-music-web-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpotifyMusicWebApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spotify-music-web-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tpo.SpotifyMusicWebApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpotifyMusicWebApp" />
+      <item itemvalue="Spring Boot.SpotifyMusicWebApp" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48f13f7a-c21c-4718-a0b4-ee42530dc5f5" name="Default Changelist" comment="" />
+      <created>1586350498032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586350498032</updated>
+      <workItem from="1586350501375" duration="3147000" />
+      <workItem from="1586718226176" duration="4844000" />
+      <workItem from="1588679438740" duration="148000" />
+      <workItem from="1588679593274" duration="24859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spotify_music_web_app$SpotifyMusicWebApp.ic" NAME="SpotifyMusicWebApp Coverage Results" MODIFIED="1588682713603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

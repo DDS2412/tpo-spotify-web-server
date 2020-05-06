@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "spotify",
+      "type": "tpo.configurations.SpotifyConfigurationProperties",
+      "sourceType": "tpo.configurations.SpotifyConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spotify.client-id",
+      "type": "java.lang.String",
+      "sourceType": "tpo.configurations.SpotifyConfigurationProperties"
+    },
+    {
+      "name": "spotify.client-secret",
+      "type": "java.lang.String",
+      "sourceType": "tpo.configurations.SpotifyConfigurationProperties"
+    },
+    {
+      "name": "spotify.redirect-url",
+      "type": "java.lang.String",
+      "sourceType": "tpo.configurations.SpotifyConfigurationProperties"
+    }
+  ],
+  "hints": []
+}
